@@ -162,5 +162,6 @@ cython_debug/
 #.idea/
 
 # Data folders procured during processing of information
+nasdaq_historical_data/
 nasdaq_historical_data_yfinance/
 sorted_copy_of_tickers/
